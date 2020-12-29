@@ -3,11 +3,11 @@
 <div dir="rtl">
   
 # رویا ملکی
-- [Github](https://github.com/farzadmoomeni)
-- [Resume](https://farzadmoomeni.github.io/)
-- [SOP](https://farzadmoomeni.github.io/SOP/)
-- [Certificates](https://farzadmoomeni.github.io/Certificates/)
-- [PNU_3991_AR](https://github.com/farzadmoomeni/PNU_3991_AR)
+- [Github](https://github.com/Roya maleki)
+- [Resume](http://https://cvbuilder.me/Resume/fa/079414e7-2328-435e-a9f0-158ed720d9bf?template=Template6)
+- [SOP](https://Roya maleki.github.io/SOP/)
+- [Certificates](https://Roya maleki.github.io/Certificates/)
+- [PNU_3991_AR](https://github.com/Roya maleki/PNU_3991_AR)
 
 ------------------
 ## فهرست درس ها 
