@@ -19,8 +19,8 @@
 ## گروه های درسی
 
 1. AAA
-    1. [رویا ملکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/63_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D9%85%D9%88%D9%85%D9%86%D9%8A)
-    2. [فرزاد مومنی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/62_%D8%B1%D9%88%D9%8A%D8%A7%20%D9%85%D9%84%D9%83%D9%8A)
+    1. [رویا ملکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/62_%D8%B1%D9%88%D9%8A%D8%A7%20%D9%85%D9%84%D9%83%D9%8A)
+    2. [فرزاد مومنی](پ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/63_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D9%85%D9%88%D9%85%D9%86%D9%8A)
     3. [مائده فضلی خانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/44_%D9%85%D8%A7%D8%A6%D8%AF%D9%87%20%D9%81%D8%B6%D9%84%D9%8A%20%D8%AE%D8%A7%D9%86%D9%8A)
     4. [آیدا حنیفی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/21_%D8%A2%D9%8A%D8%AF%D8%A7%20%D8%AD%D9%86%D9%8A%D9%81%D9%8A)
     5. [نغمه ترکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/17_%D9%86%D8%BA%D9%85%D9%87%20%D8%AA%D8%B1%D9%83%D9%8A)
