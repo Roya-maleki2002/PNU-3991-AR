@@ -3,23 +3,23 @@
 <div dir="rtl">
   
 # رویا ملکی
-- [Github](https://github.com/Roya maleki)
+- [Github](https://github.com/Roya-maleki2002)
 - [Resume](http://https://cvbuilder.me/Resume/fa/079414e7-2328-435e-a9f0-158ed720d9bf?template=Template6)
-- [SOP](https://Roya maleki.github.io/SOP/)
-- [Certificates](https://Roya maleki.github.io/Certificates/)
-- [PNU_3991_AR](https://github.com/Roya maleki/PNU_3991_AR)
+- [SOP-2](https://github.com/Roya-maleki2002/SOP-2)
+- [Certificates](https://github.com/Roya-maleki2002/certificates)
+- [PNU_3991_AR](https://github.com/Roya-maleki2002/PNU_3991_AR)
 
 ------------------
 ## فهرست درس ها 
-- [Theory of Languages and Machines](https://github.com/farzadmoomeni/PNU_3991_AR/tree/main/Theory%20of%20Languages%20and%20Machines)
-  - [Introduction to Automata Theory (page 249-252).tex](https://github.com/farzadmoomeni/PNU_3991_AR/blob/main/Theory%20of%20Languages%20and%20Machines/Introduction%20to%20Automata%20Theory%20(page%20249-252).tex)
-  - [Introduction to Automata Theory (page 249-252).pdf](https://github.com/farzadmoomeni/PNU_3991_AR/blob/main/Theory%20of%20Languages%20and%20Machines/Introduction%20to%20Automata%20Theory%20(page%20249-252).pdf)
+- [Theory of Languages and Machines](https://github.com/Roya-maleki2002/PNU_3991_AR/tree/main/Theory%20of%20Languages%20and%20Machines)
+  - [Introduction to Automata Theory (page 249-252).tex](https://github.com/Roya-maleki2002/PNU_3991_AR/blob/main/Theory%20of%20Languages%20and%20Machines/Introduction%20to%20Automata%20Theory%20(page%20249-252).tex)
+  - [Introduction to Automata Theory (page 249-252).pdf](https://github.com/Roya-maleki2002/PNU_3991_AR/blob/main/Theory%20of%20Languages%20and%20Machines/Introduction%20to%20Automata%20Theory%20(page%20249-252).pdf)
 
 ------------------
 ## گروه های درسی
 
 1. AAA
-    1. [فرزاد مومنی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/63_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D9%85%D9%88%D9%85%D9%86%D9%8A)
+    1. [رویا ملکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/63_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D9%85%D9%88%D9%85%D9%86%D9%8A)
     2. [فرزاد مومنی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/62_%D8%B1%D9%88%D9%8A%D8%A7%20%D9%85%D9%84%D9%83%D9%8A)
     3. [مائده فضلی خانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/44_%D9%85%D8%A7%D8%A6%D8%AF%D9%87%20%D9%81%D8%B6%D9%84%D9%8A%20%D8%AE%D8%A7%D9%86%D9%8A)
     4. [آیدا حنیفی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/21_%D8%A2%D9%8A%D8%AF%D8%A7%20%D8%AD%D9%86%D9%8A%D9%81%D9%8A)
